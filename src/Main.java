@@ -4,6 +4,7 @@ public class Main {
 /* Creator: Mads Nielsen
     d. 21 - 09 - 2017
     commit test
+    for at commit: VCS -> Commit (ctrl+k) -> (commit)commit and push ->
  */
     public static void main(String[] args) {
         //læser input
