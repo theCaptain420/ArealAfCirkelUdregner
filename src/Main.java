@@ -11,7 +11,8 @@ public class Main {
         //læser input
         Scanner enterRadius = new Scanner(System.in);
         System.out.println("Enter a number for radius :");
-
+           
+        //Variabler der kalkulerer areal, og indhenter nextDouble
         double radius = enterRadius.nextDouble();
         double areal = (radius*radius*Math.PI);
 
